@@ -1,0 +1,23 @@
+table {
+    width: 400px;
+    font-family: Roboto;
+}
+
+th {
+    text-align: center;
+    background: orange;
+}
+
+table, th, td {
+    border: 1px solid orange;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+}
+
+td {
+    background: rgb(58, 4, 90);
+    color: white;
+}
